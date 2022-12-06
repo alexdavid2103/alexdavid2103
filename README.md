@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo Alex Gonzalez</h1>
+<h1 align="center">Hola 👋, mi nombre es Alex Gonzalez</h1>
 <h3 align="center">soy un frontend apasionado</h3>
 
 - 💬 Ask me about **html, css, javascript y boostrap**
